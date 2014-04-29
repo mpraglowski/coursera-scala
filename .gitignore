@@ -1,0 +1,5 @@
+lib_managed/bundles/*
+lib_managed/jars/*
+project/project/target/*
+project/target/*
+target/*
